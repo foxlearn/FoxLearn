@@ -8,6 +8,7 @@ namespace FoxLearn.License
 {
     public enum LicenseType
     {
-        TRIAL
+        TRIAL,
+        FULL
     }
 }
