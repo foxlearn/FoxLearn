@@ -1,2 +1,2 @@
 # FoxLearn
-http://foxlearn.com
+https://foxlearn.com
